@@ -1,0 +1,26 @@
+{
+  "name": "wxmp-md5",
+  "version": "1.0.0",
+  "description": "微信小程序 JavaScript MD5 实现",
+  "main": "md5.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "md5",
+    "wxmp-md5"
+  ],
+  "files": [
+    "md5.js",
+    "md5.min.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jimco/wxMD5.git"
+  },
+  "author": {
+    "name": "jimco",
+    "email": "zqianduan@gmail.com"
+  },
+  "license": "MIT"
+}
